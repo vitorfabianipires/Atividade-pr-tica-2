@@ -1,9 +1,6 @@
-body {
-    background-color: coral;
-}
 
-p {
-    text-align: center;
-    margin-bottom: 15px;
+* {
+    margin: 0
+    padding: 0
+    box-sizing: border-box
 }
-
