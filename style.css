@@ -15,7 +15,6 @@ body {
 
 /*CABEÇALHO, BANNER E PERFIL*/
 .cabecalho{
-    position: relative;
     background-color: transparent;
     border-bottom: 2px solid #ffff;
     padding-bottom: 0;
@@ -25,8 +24,6 @@ body {
 .perfil-container{
     text-align: center;
     padding: 0, 20px;
-    overflow: hidden;
-    position: absolute;
     bottom: 20px;
 }
 
