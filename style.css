@@ -16,7 +16,7 @@ body {
 
 /*CABEÇALHO, BANNER E PERFIL*/
 .cabecalho{
-    background-color: cadetblue;
+    background-color: transparent;
     border-bottom: 2px solid #ffff;
     padding-bottom: 0;
 }
