@@ -19,6 +19,7 @@ body {
     border-bottom: 2px solid #ffff;
     padding-bottom: 0;
     margin: 0;
+    width: 100%;
 }
 
 .perfil-container{
