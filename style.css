@@ -48,3 +48,14 @@ p{
     margin-top: -70px;
     border: 8px solid rgb(255, 255, 255)
 }
+
+/* ===========================
+Container e botoes de redes sociais
+============================== */
+
+botoes-container {
+    display: flex;             
+    justify-content: center;   
+    gap: 12px;                 
+    margin-top: 16px;          
+}
