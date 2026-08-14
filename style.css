@@ -70,7 +70,6 @@ botoes-container {
     font-size: 0.9rem;
     color: #ffffff;             /* Cor do texto do botão */
     transition: all 0.3s ease;  /* Suaviza a animação de passar o mouse */
-    text-align: center;
 }
 
 /* 3. Cores específicas de cada rede social */
