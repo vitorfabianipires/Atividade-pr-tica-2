@@ -60,6 +60,11 @@ botoes-container {
     margin-top: 16px;          
 }
 
+a {
+    color: #ffffff;
+    text-align: center;
+}
+
     .btn{
     display: inline-block;
     padding: 8px 20px;          /* Espaçamento interno (8px cima/baixo, 20px laterais) */
