@@ -59,3 +59,24 @@ botoes-container {
     gap: 12px;                 
     margin-top: 16px;          
 }
+
+    .btn{
+    display: inline-block;
+    padding: 8px 20px;          /* Espaçamento interno (8px cima/baixo, 20px laterais) */
+    border-radius: 6px;         /* Arredonda os cantos dos botões */
+    text-decoration: none;      /* Remove o sublinhado padrão dos links */
+    font-weight: 600;           /* Deixa o texto do botão levemente em negrito */
+    font-size: 0.9rem;
+    color: #ffffff;             /* Cor do texto do botão */
+    transition: all 0.3s ease;  /* Suaviza a animação de passar o mouse */
+}
+
+/* 3. Cores específicas de cada rede social */
+.btn-github {
+    background-color: #24292e;  /* Tom escuro oficial do GitHub */
+    border: 1px solid #444c56;
+}
+
+.btn-linkedin {
+    background-color: #0a66c2;  /* Azul oficial do LinkedIn */
+}
